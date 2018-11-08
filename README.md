@@ -20,6 +20,6 @@ Pulse Sensor Amped is a plug-and-play heart-rate sensor for Arduino and Arduino 
 2. '+' supply 3V uptp 5V 
 3. '-' to ground 
 ## Step 3: Add pulseSensor libraray to you sketch
-Sketch -> include library -> manage libraries -> search for PulseSensor and instal it.
+Sketch -> include library -> manage libraries -> search for PulseSensor and install it.
 
 ###### An example code for displaying BPM to serial monitor is uploaded
